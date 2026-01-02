@@ -1,0 +1,37 @@
+7am - wakeup
+7:30 - study pcap
+8:30 - get up
+
+9:00 - run/gym
+
+11:00 - study pcap
+12:00 - study itil
+
+13:00 - cook
+
+14:30 - study itil
+17:00 - study itil
+
+19:00 - job search/volunteer
+21:00 - wind down
+00:00 - sleep
+
+-----------------
+workout - 2 h
+PCAP - 90m
+ITIL - 6h
+job search - 2h
+cooking - 1h
+
+
+------------------
+VMWare - 3h
+AWS - coming soon
+Azure - coming soon
+
+
+
+1-3 months
+powerstore 
+
+dell 
